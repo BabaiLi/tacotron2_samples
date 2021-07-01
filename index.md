@@ -1,3 +1,5 @@
 ## 歡迎來到 Github 網頁
 
-這裡將展示 基於 LDE多語者Embedding和Voice Conversion Embedding的Tacotron 2示例。
+這裡將展示基於 LDE多語者Embedding 和 Voice Conversion Embedding 的 Tacotron2 示例。
+目前合成效果還未達到最佳！
+
