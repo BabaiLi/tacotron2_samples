@@ -5,20 +5,16 @@
 
 # Seen Speaker
 ## Inside Text
-廣州女大學生登山失聯四天警方找到疑似女屍
+BBE00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍
 <div style="border:1px black solid;width:1002px;">
     
     <table>
         <tr>
-            <td></td>
             <td> Ground-truth</td>
             <td> LDE Embedding</td>
             <td> VC Embedding</td>
         </tr>
         <tr>
-            <td>
-                BBE00050001.wav
-            </td>
             <td>
                 
                 <audio controls>
