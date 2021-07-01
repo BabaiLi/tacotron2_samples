@@ -9,7 +9,6 @@ Here, we show the Multi-speaker Tacotron 2 system, and add LDE Speaker Embedding
 
 <b>SSB00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍</b>
 <div style="border:1px black solid;width:1002px;">
-    
     <table>
         <tr>
             <td> Ground-truth</td>
