@@ -36,6 +36,7 @@ SSB00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍
         </tr>
     </table>
 </div>
+
 SSB00110004.wav 當事人也必須澄清自己的交易行為與内部信息無關
 <div style="border:1px black solid;width:1002px;">
     
@@ -61,7 +62,7 @@ SSB00110004.wav 當事人也必須澄清自己的交易行為與内部信息無�
             <td>
                 <audio controls>
                     lde
-                    <source src="audio/lde_99000_11_當事人也必須澄清自己的交易行為與内部信息無關.wav" type="audio/wav">
+                    <source src="audio/lde_76000_11_當事人也必須澄清自己的交易行為與内部信息無關.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
