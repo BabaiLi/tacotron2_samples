@@ -5,8 +5,9 @@
 
 # Seen Speaker
 ## Inside Text
+廣州女大學生登山失聯四天警方找到疑似女屍
 <div style="border:1px black solid;width:1002px;">
-    廣州女大學生登山失聯四天警方找到疑似女屍
+    
     <table>
         <tr>
             <td> Ground-truth</td>
@@ -22,11 +23,13 @@
             </td>
             <td>
                 <audio controls>
+                    vc
                     <source src="audio/vc_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
                 <audio controls>
+                    lde
                     <source src="audio/lde_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
                 </audio>
             </td>
