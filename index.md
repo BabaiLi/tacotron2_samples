@@ -10,6 +10,7 @@
     
     <table>
         <tr>
+            <td></td>
             <td> Ground-truth</td>
             <td> LDE Embedding</td>
             <td> VC Embedding</td>
@@ -17,6 +18,9 @@
         <tr>
             <td>
                 BBE00050001.wav
+            </td>
+            <td>
+                
                 <audio controls>
                     <source src="audio/BBE00050001.wav" type="audio/wav">
                 </audio>
