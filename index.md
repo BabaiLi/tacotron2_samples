@@ -5,7 +5,7 @@
 
 # Seen Speaker
 ## Inside Text
-SSB00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍
+<b>SSB00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍</b>
 <div style="border:1px black solid;width:1002px;">
     
     <table>
@@ -37,7 +37,7 @@ SSB00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍
     </table>
 </div>
 
-SSB00110004.wav 當事人也必須澄清自己的交易行為與内部信息無關    
+<b>SSB00110004.wav 當事人也必須澄清自己的交易行為與内部信息無關</b>
 <div style="border:1px black solid;width:1002px;">
     <table>
         <tr>
