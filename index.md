@@ -5,7 +5,7 @@
 
 ## Seen Speaker
 ## Inside Text
-<div style="border:1px black solid;width:1000px;">
+<div style="border:1px black solid;width:1100px;">
     <table>
         <tr>
             <td> Ground-truth</td>
