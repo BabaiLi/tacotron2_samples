@@ -5,7 +5,7 @@
 
 # Seen Speaker
 ## Inside Text
-BBE00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍
+SSB00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍
 <div style="border:1px black solid;width:1002px;">
     
     <table>
@@ -36,58 +36,32 @@ BBE00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍
         </tr>
     </table>
 </div>
-## Outside Text
+SSB00110004.wav 當事人也必須澄清自己的交易行為與内部信息無關
 <div style="border:1px black solid;width:1002px;">
+    
     <table>
         <tr>
             <td> Ground-truth</td>
-            <td> LDE Embedding</td>
             <td> VC Embedding</td>
+            <td> LDE Embedding</td>
         </tr>
         <tr>
             <td>
+                
                 <audio controls>
-                    <source src="audio/SSB13020001.wav" type="audio/wav">
+                    <source src="audio/SSB00110004.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/vc_88000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
+                    vc
+                    <source src="audio/vc_99000_11_當事人也必須澄清自己的交易行為與内部信息無關.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/76000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
-                </audio>
-            </td>
-        </tr>
-    </table>
-</div>
-
-# Uneen Speaker
-## Outside Text
-語音合成是將人類語音用人工的方式所產生。
-<div style="border:1px black solid;width:1002px;">
-    <table>
-        <tr>
-            <td> Ground-truth</td>
-            <td> LDE Embedding</td>
-            <td> VC Embedding</td>
-        </tr>
-        <tr>
-            <td>
-                <audio controls>
-                    <source src="audio/SSB13020001.wav" type="audio/wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls>
-                    <source src="audio/vc_88000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
-                </audio> 
-            </td>
-            <td>
-                <audio controls>
-                    <source src="audio/76000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
+                    lde
+                    <source src="audio/lde_99000_11_當事人也必須澄清自己的交易行為與内部信息無關.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
