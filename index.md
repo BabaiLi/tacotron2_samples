@@ -117,13 +117,13 @@
             <td>
                 <audio controls>
                     vc
-                    <source src="audio/vc_99000_1302_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
+                    <source src="audio/vc_99000_1831_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
                 <audio controls>
                     lde
-                    <source src="audio/lde_76000_1302_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
+                    <source src="audio/lde_76000_1831_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
