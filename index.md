@@ -3,9 +3,10 @@
 這裡將展示基於 LDE多語者Embedding 和 Voice Conversion Embedding 的 Tacotron2 示例。<br>
 目前合成效果還未達到最佳！
 
-## Seen Speaker
-## Inside Text
-<div style="border:1px black solid;width:1001px;">
+## Uneen Speaker
+## Outside Text
+語音合成是將人類語音用人工的方式所產生。
+<div style="border:1px black solid;width:1003px;">
     <table>
         <tr>
             <td> Ground-truth</td>
