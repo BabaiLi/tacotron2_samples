@@ -1,7 +1,7 @@
-## 歡迎來到 Github 網頁
+## Welcome to this page!
 
-這裡將展示基於 LDE多語者Embedding 和 Voice Conversion Embedding 的 Tacotron2 示例。<br>
-目前合成效果還未達到最佳！
+Here, we show the Multi-speaker Tacotron 2 system, and added LDE Speaker Embeddings and Voice Conversion Embeddings in this system.
+The Tacotron2 system has not yet reached the best! 
 
 # Seen Speaker
 ## Inside Text
