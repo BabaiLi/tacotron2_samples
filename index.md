@@ -12,18 +12,27 @@ Aishell3 原音檔 <br>
 
 ## Seen Speaker
 ## Inside Text
-Voice Conversion Embedding <br>
-
-LDE Embedding
-
-
-## Unseen Speaker
-Voice Conversion Embedding <br>
-<audio controls>
-    <source src="audio/vc_88000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
-</audio> 
-
-LDE Embedding
-<audio controls>
-    <source src="audio/76000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
-</audio>
+<table>
+    <tr>
+        <td> Ground-truth</td>
+        <td> LDE Embedding</td>
+        <td> VC Embedding</td>
+    </tr>
+    <tr>
+        <td>
+            <audio controls>
+                <source src="audio/SSB13020001.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls>
+                <source src="audio/vc_88000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
+            </audio> 
+        </td>
+        <td>
+            <audio controls>
+                <source src="audio/76000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
+            </audio>
+        <td>
+    </tr>
+</table>
