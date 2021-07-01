@@ -4,5 +4,5 @@
 目前合成效果還未達到最佳！
 
 <audio controls>
-    <source src="SSB13020001.wav/" type="audio/wav">
+    <source src="audio/SSB13020001.wav" type="audio/wav">
 </audio> 
