@@ -10,15 +10,20 @@ Aishell3 原音檔 <br>
 
 <br>
 
-## 非平行合成
-Voice Conversion Embedding (Unseen) <br>
+## Seen Speaker
+## Inside Text
+Voice Conversion Embedding <br>
+
+LDE Embedding
+
+
+## Unseen Speaker
+Voice Conversion Embedding <br>
 <audio controls>
     <source src="audio/vc_88000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
 </audio> 
 
-<br>
-
-LDE Embedding (Unseen)
+LDE Embedding
 <audio controls>
     <source src="audio/76000_1302_語音合成是將人類語音用人工的方式所產生.wav" type="audio/wav">
 </audio>
