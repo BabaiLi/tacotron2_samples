@@ -22,12 +22,12 @@
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/vc_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav.wav" type="audio/wav">
+                    <source src="audio/vc_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/lde_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav.wav" type="audio/wav">
+                    <source src="audio/lde_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
