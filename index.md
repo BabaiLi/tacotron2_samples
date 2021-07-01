@@ -98,3 +98,34 @@
         </tr>
     </table>
 </div>
+
+<b>SSB13020001.wav 該電視台就播出了一部電視紀錄片</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> Ground-truth</td>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                
+                <audio controls>
+                    <source src="audio/SSB13020001.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    vc
+                    <source src="audio/vc_99000_1302_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    lde
+                    <source src="audio/lde_76000_1302_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
