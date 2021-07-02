@@ -1,6 +1,8 @@
 # Welcome!
 
-Here, we show the Multi-speaker Tacotron 2 system, and add LDE Speaker Embeddings and Voice Conversion Embeddings in this system.
+Here, we show the Multi-speaker TSS system.<br>
+We add LDE Speaker Embeddings and Voice Conversion Embeddings in our Tacotron 2.<br>
+And, the vocoder is DiffWave which is trained by VCTK Corpus.
 <br>
 <b>The Tacotron2 system has not yet reached the best! </b>
 
