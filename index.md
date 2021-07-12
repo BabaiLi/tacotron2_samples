@@ -6,6 +6,10 @@ And, the vocoder is DiffWave which is trained by VCTK Corpus about 500_000 itera
 <br>
 <b>The Tacotron2 system has not yet reached the best! </b>
 
+# Train Parameter
+Batch: 64
+Train_iter: 73000
+
 # Seen Speaker
 ## Inside Text
 
