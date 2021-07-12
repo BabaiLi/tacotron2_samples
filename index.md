@@ -8,6 +8,7 @@ And, the vocoder is DiffWave which is trained by VCTK Corpus about 500_000 itera
 
 # Train Parameter
 Batch: 64
+<br>
 Train_iter: 73000
 
 # Seen Speaker
