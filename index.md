@@ -234,12 +234,12 @@ Val_unseen_speaker: 45 (from another part of aishell3)
         <tr>
             <td>
                 <audio controls>
-                    <source src="audio/vc_73000_5_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                    <source src="audio/vc_73000_273_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/lde_73000_5_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                    <source src="audio/lde_73000_273_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
@@ -301,12 +301,12 @@ Val_unseen_speaker: 45 (from another part of aishell3)
         <tr>
             <td>
                 <audio controls>
-                    <source src="audio/vc_73000_5_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                    <source src="audio/vc_73000_1831_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/lde_73000_5_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                    <source src="audio/lde_73000_1831_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
