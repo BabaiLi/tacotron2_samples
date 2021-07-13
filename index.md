@@ -9,9 +9,12 @@ And, the vocoder is DiffWave which is trained by VCTK Corpus about 500_000 itera
 # Train Parameter
 Batch: 64
 <br>
-Train_iter: 73000
+Train_iter: 73_000
+<br>
 Train_speaker: 173 (from a part of aishell3)
+<br>
 Val_unseen_speaker: 45 (from another part of aishell3)
+<br>
 
 # Seen Speaker
 ## Inside Text
