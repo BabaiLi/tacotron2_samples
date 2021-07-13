@@ -130,7 +130,7 @@ Val_unseen_speaker: 45 (from another part of aishell3)
 
 
 ## Outside Text
-
+# Speaker 0005
 <b>一粒老鼠屎壞了一鍋粥</b>
 <div style="border:1px black solid;width:1002px;">
     <table>
@@ -147,6 +147,141 @@ Val_unseen_speaker: 45 (from another part of aishell3)
             <td>
                 <audio controls>
                     <source src="audio/lde_73000_5_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>住家附近的十字路口突然開始大興土木</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_73000_5_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_5_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+# Speaker 0011
+<b>一粒老鼠屎壞了一鍋粥</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_73000_11_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_11_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>住家附近的十字路口突然開始大興土木</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_73000_11_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_11_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+# Speaker 0273
+<b>一粒老鼠屎壞了一鍋粥</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_73000_5_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_5_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<b>住家附近的十字路口突然開始大興土木</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_73000_273_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_273_住家附近的十字路口突然開始大興土木.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+# Speaker 1831
+<b>一粒老鼠屎壞了一鍋粥</b>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_73000_1831_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_1831_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
