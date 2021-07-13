@@ -25,7 +25,7 @@ And, the vocoder is DiffWave which is trained by VCTK Corpus about 500_000 itera
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/vc_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
+                    <source src="audio/vc_73000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
@@ -107,6 +107,94 @@ And, the vocoder is DiffWave which is trained by VCTK Corpus about 500_000 itera
                     <source src="audio/SSB18310044.wav" type="audio/wav">
                 </audio>
             </td>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_99000_1831_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_1831_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+## Outside Text
+
+
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_99000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_5_廣州女大學生登山失聯四天警方找到疑似女屍.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_99000_11_當事人也必須澄清自己的交易行為與内部信息無關.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_11_當事人也必須澄清自己的交易行為與内部信息無關.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_99000_273_不動產登記倒計時對樓市影響幾何.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/lde_73000_273_不動產登記倒計時對樓市影響幾何.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> VC Embedding</td>
+            <td> LDE Embedding</td>
+        </tr>
+        <tr>
             <td>
                 <audio controls>
                     <source src="audio/vc_99000_1831_該電視台就播出了一部電視紀錄片.wav" type="audio/wav">
