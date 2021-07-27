@@ -373,6 +373,25 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>LJSpeech</b>
-<audio controls>
-    <source src="audio/vc_73000_LJSpeech_王先生賠償傷者五千元.wav" type="audio/wav">
-</audio>
+<div style="border:1px black solid;width:1002px;">
+    <table>
+        <tr>
+            <td> Ground-truth</td>
+            <td> VC Embedding</td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/LJ001-0001.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/vc_73000_LJSpeech_王先生賠償傷者五千元.wav" type="audio/wav">
+                </audio> 
+            </td>
+            <td>
+            </td>
+        </tr>
+    </table>
+</div>
