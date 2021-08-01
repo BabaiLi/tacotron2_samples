@@ -255,8 +255,10 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 <div style="border:1px black solid;width:1202px;">
     <table>
         <tr>
-            <td> VC Embedding</td>
-            <td> LDE Embedding</td>
+            <td> VC Embedding + Post-Net</td>
+            <td> VC Embedding + Post-Filter</td>
+            <td> LDE Embedding + Post-Net</td>
+            <td> LDE Embedding + Post-Filter</td>
         </tr>
         <tr>
             <td>
@@ -276,7 +278,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/lde/lde_post_filter_11_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
+                    <source src="audio/lde/lde_11_post_filter_一粒老鼠屎壞了一鍋粥.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
