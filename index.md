@@ -20,7 +20,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 ## Inside Text
 
 <b>SSB00050001.wav 廣州女大學生登山失聯四天警方找到疑似女屍</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> Ground-truth</td>
@@ -60,7 +60,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>SSB00110004.wav 當事人也必須澄清自己的交易行為與内部信息無關</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> Ground-truth</td>
@@ -77,7 +77,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/vc/vc_當事人也必須澄清自己的交易行為與内部信息無關.wav" type="audio/wav">
+                    <source src="audio/vc/vc_當事人也必須澄清自己的交易行為與內部信息無關.wav" type="audio/wav">
                 </audio> 
             </td>
             <td>
@@ -100,7 +100,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>SSB02730002.wav 不動產登記倒計時對樓市影響幾何</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> Ground-truth</td>
@@ -140,7 +140,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>SSB18310044.wav 該電視台就播出了一部電視紀錄片</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> Ground-truth</td>
@@ -183,7 +183,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 ## Outside Text
 ## Speaker 0005
 <b>一粒老鼠屎壞了一鍋粥</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding + Post-Net</td>
@@ -217,7 +217,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>住家附近的十字路口突然開始大興土木</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding + Post-Net</td>
@@ -252,7 +252,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 
 ## Speaker 0011
 <b>一粒老鼠屎壞了一鍋粥</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding</td>
@@ -284,7 +284,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>住家附近的十字路口突然開始大興土木</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding + Post-Net</td>
@@ -319,7 +319,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 
 ## Speaker 0273
 <b>一粒老鼠屎壞了一鍋粥</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding + Post-Net</td>
@@ -353,7 +353,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>住家附近的十字路口突然開始大興土木</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding + Post-Net</td>
@@ -388,7 +388,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 
 ## Speaker 1831
 <b>一粒老鼠屎壞了一鍋粥</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding + Post-Net</td>
@@ -422,7 +422,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>住家附近的十字路口突然開始大興土木</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> VC Embedding + Post-Net</td>
@@ -459,7 +459,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 # UnSeen Speaker
 
 <b>SSB17820001.wav 大豆病害有什麼</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> Ground-truth</td>
@@ -499,7 +499,7 @@ Val_unseen_speaker: 45 (from the other of aishell3)
 </div>
 
 <b>SSB17450016.wav 王先生賠償傷者五千元</b>
-<div style="border:1px black solid;width:1002px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <td> Ground-truth</td>
